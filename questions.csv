@@ -1,0 +1,6 @@
+question,option1,option2,option3,option4,answer,type
+1+1=?,1,2,3,4,2,choice
+2+2=?,2,3,4,5,4,choice
+請輸入5+5的答案,,,,,10,fill
+請輸入3+4的答案,,,,,7,fill
+
